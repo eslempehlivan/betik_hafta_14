@@ -1,0 +1,16 @@
+promt 
+soru sor hangisi
+eğer 
+a seçtiysen
+ tek tek harf dön eğer 
+a
+b
+c
+
+b seçerse 
+a
+ab
+abc
+
+alert isteniyor
+if içi loop

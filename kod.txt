@@ -1,0 +1,31 @@
+car=['ali','veli','x','y']
+(4) ['ali', 'veli', 'x', 'y']
+for(let i=0;i<car.length;i++){  console.log(car[i]);  alert(i);}
+0 ali
+1 veli
+2 x
+3 y
+
+/////
+a=prompt('ismini yaz')
+'eslem'
+console.log(a)
+eslem
+//
+**
+a='prompt(muhammed ? yusuf ?)
+
+if(a==='muhammed'){
+  for(let i=0;i<a.lenght;i++){
+        alert(a[i]);
+}
+}else if(a==='yusuf'){
+str=''
+for(let i=0;i<a.lenght;i++){
+        str += a[i]
+        alert(str);
+}}
+
+ else {
+  alert('yanlıs isim seçtin');
+}
