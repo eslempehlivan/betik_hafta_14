@@ -19,14 +19,14 @@ a=prompt('muhammed ? yusuf ?')
 if(a==='muhammed'){
   for(let i=0;i<a.length;i++){
         alert(a[i]);
-}
+  }
 }else if(a==='yusuf'){
   str=''
   for(let i=0;i<a.length;i++){
         str += a[i]
         alert(str);
-}}
-
+  }
+}
  else {
   alert('yanlıs isim seçtin');
 }
